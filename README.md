@@ -22,7 +22,7 @@ import (
 )
 
 func main() {
-	// Create a new set of ints
+	// Create a new queue of ints
 	q := queues.New[int]()
 
 	// Enqueue some values
