@@ -9,7 +9,7 @@ For full documentation see [pkg.go.dev](https://pkg.go.dev/github.com/twharmon/q
 ## Install
 ```bash
 go get github.com/twharmon/queues
-````
+```
 
 ## Usage
 ```go
