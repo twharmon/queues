@@ -1,5 +1,5 @@
 # Queues
-Generic queues for Go.
+Thread-safe, generic queues for Go.
 
 ![](https://github.com/twharmon/queues/workflows/Test/badge.svg) [![](https://goreportcard.com/badge/github.com/twharmon/queues)](https://goreportcard.com/report/github.com/twharmon/queues) [![codecov](https://codecov.io/gh/twharmon/queues/branch/main/graph/badge.svg?token=K0P59TPRAL)](https://codecov.io/gh/twharmon/queues)
 
