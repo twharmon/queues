@@ -7,7 +7,9 @@ Generic queues for Go.
 For full documentation see [pkg.go.dev](https://pkg.go.dev/github.com/twharmon/queues).
 
 ## Install
-`go get github.com/twharmon/queues`
+```bash
+go get github.com/twharmon/queues
+````
 
 ## Usage
 ```go
